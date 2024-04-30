@@ -2,5 +2,17 @@
 Table of Contents
 --------------------------------------------------------------*/
 .tocify-item.active.list-group-item {
-    background-color: #a951ec !important;
+    background-color: #5F466A !important;
+}
+
+h1 {
+    color: #37293D;
+}
+
+h2 {
+    color: #37293D;
+}
+
+h3 {
+    color: #5F466A
 }
